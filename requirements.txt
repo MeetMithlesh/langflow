@@ -306,7 +306,6 @@ python-multipart==0.0.20
 pytube==15.0.0
 pytz==2024.2
 pyvis==0.3.2
-pywin32==306
 PyYAML==6.0.2
 qdrant-client==1.9.2
 qianfan==0.3.5
